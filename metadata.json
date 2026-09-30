@@ -1,0 +1,6 @@
+{
+  "name": "DugoutCast AI - Softball Play-by-Play Announcer",
+  "description": "AI-powered real-time softball broadcast commentary with visual tracking of players and balls, customizable announcer styles, and Live booth audio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
